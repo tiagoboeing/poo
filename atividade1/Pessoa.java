@@ -37,7 +37,7 @@
  (inclusive o salário bruto e o salário líquido). Tambem deve ser possível cadastrar fornecedores, e buscar pelo 
  nome de um fornecedor e listar todas as informações referente ao mesmo, com o saldo de débido ou crédito.
  */
-package atividade1;
+package poo.atividade1;
 
 /**
  *

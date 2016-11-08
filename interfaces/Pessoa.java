@@ -1,4 +1,4 @@
-package interface;
+package poo.interfaces;
 
 import javax.swing.JOptionPane;
 

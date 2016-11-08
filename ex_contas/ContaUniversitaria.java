@@ -1,4 +1,4 @@
-package ex_contas;
+package poo.ex_contas;
 
 public class ContaUniversitaria extends Conta {
 	

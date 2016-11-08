@@ -13,7 +13,7 @@
 //3 - Verificar artilheiro do campeonato
 //4 - Verificar qual o time fez mais gols no campeonato
 
-package DesafioFutebol;
+package poo.DesafioFutebol;
 
 import java.util.ArrayList;
 import javax.swing.JOptionPane;

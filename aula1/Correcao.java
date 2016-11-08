@@ -1,4 +1,4 @@
-package aula1;
+package poo.aula1;
 
 import javax.swing.JOptionPane;
 
@@ -11,7 +11,7 @@ public class Correcao {
 	String nome;
 	double peso, altura;
 	
-	//Métodos :
+	//Mï¿½todos :
 	
 	void cadastra(){
 		nome = JOptionPane.showInputDialog("Nome :");

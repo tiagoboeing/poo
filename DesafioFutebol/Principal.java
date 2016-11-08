@@ -1,4 +1,4 @@
-package DesafioFutebol;
+package poo.DesafioFutebol;
 
 import java.util.ArrayList;
 
@@ -13,7 +13,7 @@ public class Principal {
 		String msg = "1 - Cadastrar times \n";
 		msg += "2 - Listar jogadores de um time\n";
 		msg += "3 - Verificar artilheiro do campeonato\n";
-		msg += "4 - Verificar qual time marcou mais gols na competição\n";
+		msg += "4 - Verificar qual time marcou mais gols na competiï¿½ï¿½o\n";
 		msg += "5 - Sair";
 		
 		return Integer.parseInt(JOptionPane.showInputDialog(msg));

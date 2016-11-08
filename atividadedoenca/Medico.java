@@ -14,7 +14,7 @@
 //
 //Observação: Utilizar o método toString para mostrar os objetos.
 
-package atividadedoenca;
+package poo.atividadedoenca;
 
 import javax.swing.JOptionPane;
 

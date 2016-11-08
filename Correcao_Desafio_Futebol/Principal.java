@@ -1,4 +1,4 @@
-package Correcao_Desafio_Futebol;
+package poo.Correcao_Desafio_Futebol;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package Atividades;
+package poo.Atividades;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -26,7 +26,7 @@ public class PrincipalAluno {
 	
 	static void buscaAluno(){
 		String n = JOptionPane.showInputDialog("Nome buscar:");
-		String r = "Aluno não cadastrado";
+		String r = "Aluno nï¿½o cadastrado";
 		
 		//percorre toda a lista de alunos
 		for(Aluno a : lista){

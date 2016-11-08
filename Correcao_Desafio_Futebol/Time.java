@@ -1,4 +1,4 @@
-package Correcao_Desafio_Futebol;
+package poo.Correcao_Desafio_Futebol;
 
 import java.util.ArrayList;
 
@@ -17,7 +17,7 @@ public class Time {
 			j.cadastra();
 			jogadores.add(j);
 			op = Integer.parseInt(JOptionPane.showInputDialog(
-					"Mais Jogadores? 1 - sim, 2 - não"));
+					"Mais Jogadores? 1 - sim, 2 - nï¿½o"));
 		}while(op != 2);
 	}
 	

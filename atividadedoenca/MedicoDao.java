@@ -1,4 +1,4 @@
-package atividadedoenca;
+package poo.atividadedoenca;
 
 import java.util.ArrayList;
 import javax.swing.JOptionPane;

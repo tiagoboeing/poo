@@ -1,4 +1,4 @@
-package Atividades;
+package poo.Atividades;
 
 public class PrincipalTeste {
 

@@ -1,4 +1,4 @@
-package DesafioProva;
+package poo.DesafioProva;
 
 /**
  *

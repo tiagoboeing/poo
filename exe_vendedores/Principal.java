@@ -1,4 +1,4 @@
-package exe_vendedores;
+package poo.exe_vendedores;
 
 import ex_contas.Conta;
 import java.util.ArrayList;

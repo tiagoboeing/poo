@@ -4,8 +4,8 @@
 //-Numero de camisa
 //-Quantidade de gols marcados no campeonato
 //
-//Defina a Classe Jogador e a Classe Time, com os métodos que se fizerem 
-//necessários para atender ao programa principal:
+//Defina a Classe Jogador e a Classe Time, com os mï¿½todos que se fizerem 
+//necessï¿½rios para atender ao programa principal:
 //
 //Programa Principal:
 //1 - Cadastrar times
@@ -13,7 +13,7 @@
 //3 - Verificar artilheiro do campeonato
 //4 - Verificar qual o time fez mais gols no campeonato
 
-package DesafioFutebol;
+package poo.DesafioFutebol;
 
 import javax.swing.JOptionPane;
 

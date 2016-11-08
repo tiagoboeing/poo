@@ -20,7 +20,7 @@
 //4 - A idade do autor n�o pode ser negatica e o sexo obrigatoriamente deve ser M ou F.
 
 
-package Aula3;
+package poo.Aula3;
 
 import javax.swing.JOptionPane;
 

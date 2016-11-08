@@ -1,4 +1,4 @@
-package Aula3;
+package poo.Aula3;
 
 import java.util.ArrayList;
 import javax.swing.JOptionPane;

@@ -1,4 +1,4 @@
-package exe_vendedores;
+package poo.exe_vendedores;
 
 import javax.swing.JOptionPane;
 

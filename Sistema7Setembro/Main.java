@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Sistema7Setembro;
+package poo.Sistema7Setembro;
 
 /**
  *

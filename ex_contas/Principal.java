@@ -20,7 +20,7 @@ O saque é permitido até o limite contradado (verificar também a transferênci
 Implemente a hierarquia de herança para atender a este enunciado com a programação de cada método (inclusive saque, depósito e transferência).
  */
 
-package ex_contas;
+package poo.ex_contas;
 
 import javax.swing.JOptionPane;
 import java.util.ArrayList;

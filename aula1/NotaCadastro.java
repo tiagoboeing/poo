@@ -5,18 +5,18 @@ Nota2
 Nota3
 Nota4
 
-Fazer os métodos
+Fazer os mï¿½todos
 Cadastrar
-Calcular Média (nota1,2 e 3 - peso 30% e nota 4 peso de 10%)
-Mostrar dados ( mostrar o nome e a média )
+Calcular Mï¿½dia (nota1,2 e 3 - peso 30% e nota 4 peso de 10%)
+Mostrar dados ( mostrar o nome e a mï¿½dia )
 
-No programa principal, ter um menu com as opções:
+No programa principal, ter um menu com as opï¿½ï¿½es:
 1 - Cadatrar aluno
 2 - Buscar por nome
-3 - Mostrar ordenado pela média
+3 - Mostrar ordenado pela mï¿½dia
 */
 
-package aula1;
+package poo.aula1;
 
 import java.util.ArrayList;
 
@@ -31,7 +31,7 @@ public class NotaCadastro {
 	static int menu(){
 		String m = "1 - Cadatrar aluno\n"
 				+"2 - Buscar por nome\n"
-				+"3 - Mostrar ordenado pela média\n\n"
+				+"3 - Mostrar ordenado pela mï¿½dia\n\n"
 				+"4 - Sair";
 		return Integer.parseInt(JOptionPane.showInputDialog(m));
 	}

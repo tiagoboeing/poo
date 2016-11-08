@@ -1,4 +1,4 @@
-package interface;
+package poo.interfaces;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -13,7 +13,7 @@ Imprimir os seguintes dados de todos os imóveis: nome do proprietário, endere�
 Imprimir o número de casas com piscina.
 Listar os dados de todos os imóveis de determinado proprietário.  O usuário deve digitar o nome do proprietário.
  */
-package atividade8;
+package poo.atividade8;
 
 import java.util.ArrayList;
 import javax.swing.JOptionPane;

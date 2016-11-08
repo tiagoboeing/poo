@@ -1,4 +1,4 @@
-package ex_contas;
+package poo.ex_contas;
 
 import javax.swing.JOptionPane;
 

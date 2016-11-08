@@ -1,4 +1,4 @@
-package Imc;
+package poo.Imc;
 
 import java.util.ArrayList;
 

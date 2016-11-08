@@ -13,7 +13,7 @@ Qualquer produto somente pode ser vendido se tiver a quantidade em estoque.
 - Mostrar os dados de todos os clientes
 - Mostrar os dados de todos os produtos.
  */
-package DesafioProva;
+package poo.DesafioProva;
 
 import atividade8.Imovel;
 import java.util.ArrayList;

@@ -19,7 +19,7 @@
 //4 - Ao exibir o valor, mostrar o símbolo da moeda na frente (R$)
 //4 - A idade do autor não pode ser negatica e o sexo obrigatoriamente deve ser M ou F.
 
-package atividadelivraria;
+package poo.atividadelivraria;
 
 import javax.swing.JOptionPane;
 

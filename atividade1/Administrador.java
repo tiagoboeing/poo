@@ -1,4 +1,4 @@
-package atividade1;
+package poo.atividade1;
 
 /**
  *
