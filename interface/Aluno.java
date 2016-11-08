@@ -1,4 +1,5 @@
-package poo.interface;
+package interface;
+import javax.swing.JOptionPane;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
