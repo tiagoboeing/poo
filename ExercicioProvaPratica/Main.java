@@ -62,7 +62,8 @@ public class Main {
             
         } else if(tipoCadastro == 0){
             
-            Funcionario f = new Funcionario();
+            Funcionario f;
+            f = new Funcionario();
             f.cadastraFuncionario();
             listaFuncionarios.add(f);
             
@@ -91,7 +92,7 @@ public class Main {
     
     static void listaFuncionariosDpto(String dpto){
         
-        String msgFunDpto = "Funcionários do departamento: " + dpto;
+        String msgFunDpto = "Funcionários do departamento: " + dpto + "\n\n";
         
         for(Funcionario f : listaFuncionarios){
             
@@ -115,9 +116,7 @@ public class Main {
             
             //se atender ao parametro da busca
             if(m.getMesAssociacao().equals(mesBusca)){
-                
-                msgMembros += m.toString();
-                
+                msgMembros += m.toString()+"\n ==== \n";
             }
             
         }

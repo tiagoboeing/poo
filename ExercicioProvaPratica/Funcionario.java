@@ -49,9 +49,7 @@ public class Funcionario {
     
     
     public String toString(){
-        
         return "Nome do funcionário: " + getNomeFuncionario() + "\n\nTipo de funcionário: " + getTipoFuncionario();
-        
     }
     
     
