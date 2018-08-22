@@ -4,14 +4,11 @@ POG - Programação Orientada a Gambiarra<br>
 <p>Linguagem: Java</p>
 <p>Semestre: 2016/2</p>
 --
-- UNISUL - UNIVERSIDADE DO SUL DE SANTA CATARINA
-- Professor: Clávison Martinelli Zapelini
-- Disciplina: Programação Orientada a Objetos (Java)
-- Aluno: Tiago Boeing
-- Curso: Ciência da Computação
+UNISUL - UNIVERSIDADE DO SUL DE SANTA CATARINA<br>
+Professor: Clávison Martinelli Zapelini<br>
+Curso: Ciência da Computação
 
---
-<i>Alguns pacotes podem conter erros, por se tratar de atividades é necessário repará-los.</i>
+<span style="color: #990000"><i>Alguns pacotes podem conter erros, por se tratar de atividades é necessário repará-los.</i></span>
 
 <h4>Nome do pacote java: poo</h4>
 
