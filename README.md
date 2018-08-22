@@ -3,12 +3,12 @@ POG - Programação Orientada a Gambiarra<br>
 <br>
 <p>Linguagem: Java</p>
 <p>Semestre: 2016/2</p>
---
-UNISUL - UNIVERSIDADE DO SUL DE SANTA CATARINA<br>
-Professor: Clávison Martinelli Zapelini<br>
-Curso: Ciência da Computação
 
-<span style="color: #990000"><i>Alguns pacotes podem conter erros, por se tratar de atividades é necessário repará-los.</i></span>
+- UNISUL - UNIVERSIDADE DO SUL DE SANTA CATARINA<br>
+- Professor: Clávison Martinelli Zapelini<br>
+- Curso: Ciência da Computação
+
+<b><i>Alguns pacotes podem conter erros, por se tratar de atividades é necessário repará-los.</i></b>
 
 <h4>Nome do pacote java: poo</h4>
 
