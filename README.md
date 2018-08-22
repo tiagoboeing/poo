@@ -1,6 +1,8 @@
-# poo
-Programação Orientada a Objetos (Java)
-Semestre: 2016/2
+# Programação Orientada a Objetos
+POG - Programação Orientada a Gambiarra<br>
+<br>
+<p>Linguagem: Java</p>
+<p>Semestre: 2016/2</p>
 --
 - UNISUL - UNIVERSIDADE DO SUL DE SANTA CATARINA
 - Professor: Clávison Martinelli Zapelini
